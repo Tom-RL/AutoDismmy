@@ -17,7 +17,7 @@ e verificação automática da instalação.
 
 ## Uso rápido (recomendado)
 
-Executável compilado com Bun — sem dependências externas:
+Baixe o executável na página de [Releases](https://github.com/Tom-RL/AutoDismmy/releases) e execute:
 
 ```bash
 ./autoDismmy
